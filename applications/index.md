@@ -15,6 +15,8 @@ Besides, **there is a clear difference between an application being accepted and
 
 <a id="top"></a>
 
+- [2025](#2025)
+  - [🏄 Wave 25 - Q1 2025](#-wave-25---q1-2025)
 - [2024](#2024)
   - [🏄 Wave 24 - Q4 2024](#-wave-24---q4-2024)
   - [🏄 Wave 23 - Q3 2024](#-wave-23---q3-2024)
@@ -47,16 +49,38 @@ Besides, **there is a clear difference between an application being accepted and
   - [🏄 Wave 1 - Q1 2019](#-wave-1---q1-2019)
 
 
+## 2025
+
+### 🏄 Wave 25 - Q1 2025
+
+| Team                                                        | Project                                              | Link                                                           | Terminated | First Delivery | Completed  |
+| :-----------------------------------------------------------| :----------------------------------------------------| :--------------------------------------------------------------| :--------: | :------------: | :--------: |
+| [ChainSupport Labs](https://github.com/ChainSupport)             | [eliza-plugin-dot](./eliza-plugin-dot.md)       | [GitHub](https://github.com/ChainSupport/eliza-plugin-dot.git) |    ☐       |       ☐       |     ☐      |
+| [TCDT Lab](https://github.com/ChainSupport)             | Blockchain Interoperability through DNS and Asset Discovery       | [GitHub](https://github.com/tcdt-lab) |    ☐       |       ☐       |     ☐      |
+| [Staking Rewards](https://www.stakingrewards.com/)             | [Validator Performance - Research & Methodology Development](./staking_rewards.md)       | [GitHub](https://github.com/stakingrewards) |    ☐       |       ☐       |     ☐      |
+
+[🔝](#top)
+
 ## 2024
 
 ### 🏄 Wave 24 - Q4 2024
 
-| Team                                                               | Project                                                                                                | Link                                       | Terminated | First Delivery | Completed  |
-| :------------------------------------------------------------------| :------------------------------------------------------------------------------------------------------| :------------------------------------------| :---------: | :------------: | :--------: |
-| [hack-ink](https://linktr.ee/aurevoirxavier)                       | [Polkadot Runtime Releaser](./polkadot-runtime-releaser.md)                     | [GitHub](https://github.com/AurevoirXavier)                 | ☐          |        ☐       |      ☐      |
-| [Coong Crafts](https://github.com/CoongCrafts)                       | [typink](./typink.md)                     | [GitHub](https://github.com/CoongCrafts)                 | ☐          |        ☒       |      ☐      |
+| Team                          | Project                                         | Link                                       | Terminated | First Delivery | Completed  |
+| :-----------------------------| :-----------------------------------------------| :------------------------------------------| :--------: | :------------: | :--------: |
+| [hack-ink](https://linktr.ee/aurevoirxavier)                       | [Polkadot Runtime Releaser](./polkadot-runtime-releaser.md)                     | [GitHub](https://github.com/AurevoirXavier)                 | ☐          |        ☒       |      ☒      |
+| [Coong Crafts](https://github.com/CoongCrafts)                       | [typink](./typink.md)                     | [GitHub](https://github.com/CoongCrafts)                 | ☐          |        ☒       |      ☒      |
 | [Tuguldur Baigalmaa](https://philoniare.com/about)                       | [Bison](./bison.md)                     | [GitHub](https://github.com/philoniare)                 | ☐          |        ☐       |      ☐      |
-| [Cyborg Network](https://cyborgnetwork.io/)                       | [NeuroZK](./NeuroZK.md)                     | [GitHub](https://github.com/Cyborg-Network)               | ☐          |        ☐       |      ☐      |
+| [Cyborg Network](https://cyborgnetwork.io/)                       | [NeuroZK](./NeuroZK.md)                     | [GitHub](https://github.com/Cyborg-Network)               | ☐          |        ☒       |      ☐      |
+| [Eva Interactive](https://www.linkedin.com/in/itsyogesh)                       | [Relaycode Extrinsics Builder](./relaycode.md)                     | [GitHub](https://github.com/itsyogesh)               | ☐          |        ☒       |      ☐      |
+| [ChainSupport Labs](https://github.com/ChainSupport)                       | [Frontier PoS Template](./frontier-pos-template.md)                     | [GitHub](https://github.com/ChainSupport)               | ☐          |        ☒       |      ☒      |
+| [Decenzio](https://decenzio.com/)                       | [NFTAA - NFT as an account](./nftaa.md)                     | [GitHub](https://github.com/Roman-24)               | ☐          |        ☒       |      ☐      |
+| [Apolixit](https://github.com/Apolixit/)                       | [Polkanalysis](./polkanalysis.md)                     | [GitHub](https://github.com/Apolixit/)               | ☐          |        ☐       |      ☐      |
+| [KodaLabs](https://github.com/kodadot)                       | [Multichain Identity Indexer](./multichain_identity_indexer.md)                     | [GitHub](https://github.com/kodadot)               | ☐          |        ☐       |      ☐      |
+| [Zondax AG](https://zondax.ch/)                       | [MigrationEase](./MigrationEase.md)                     | [GitHub](https://github.com/zondax)               | ☐          |        ☐       |      ☐      |
+| [Dota Network](https://x.com/dot20_dota)                       | [dairdrop](./docname.md)                     | [GitHub](https://github.com/dota-network)               | ☐          |        ☐       |      ☐      |
+| [Swush Labs](https://github.com/swush-labs/)                       | [Swush DEX Aggregator](./swush-dex-aggregator.md)                     | [GitHub](https://github.com/swush-labs/)               | ☐          |        ☐       |      ☐      |
+| [QueryWeb3](https://queryweb3.com/)                       | [QueryWeb3](./queryWeb3.md)                     | [GitHub](https://github.com/Query-Web3/)               | ☐          |        ☐       |      ☐      |
+
 
 [🔝](#top)
 
@@ -68,7 +92,7 @@ Besides, **there is a clear difference between an application being accepted and
 | [Liu-Cheng Xu](https://github.com/liuchengxu)                       | [Subcoin](./Subcoin.md)                     | [GitHub](https://github.com/subcoin-project/subcoin)                 | ☐          |        ☒       |      ☐      |
 | [Experio S M](https://www.linkedin.com/in/leogcustodio/)                       | [Polkadart Follow-up](./polkadart_extension.md)                     | [GitHub](https://github.com/leonardocustodio/polkadart)                 | ☐          |        ☒       |      ☐      |
 | [Solidbit GmbH](https://solid-bit.com/)                       | [ISO20022 Ecosystem Research and Technical Design](./ISO20022-Implementation-POC.md)                     | [GitHub](https://github.com/SolidbitGmbH)                 | ☐          |        ☒       |      ☒      |
-| [Katarína Valová](https://github.com/kacena123)                       | [AgriDot](./AgriDot.md)                     | [GitHub](https://github.com/kacena123)                 | ☐          |        ☐       |      ☐      |
+| [Katarína Valová](https://github.com/kacena123)                       | [AgriDot](./AgriDot.md)                     | [GitHub](https://github.com/kacena123)                 | ☐          |        ☒       |      ☒      |
 | [ParaSpell Research Foundation](https://paraspell.xyz/)                       | [xcNFT](./xcNFT.md)                     | [GitHub](https://github.com/paraspell)                 | ☐          |        ☒       |      ☒      |
 | [Web3 Association](https://github.com/web3association)                       | [Open source contributor funding experiment](./web3-association-open-source-contributor-funding-experiment-setup.md)                     | [GitHub](https://github.com/web3association)                 | ☐          |        ☐       |      ☐      |
 | [SIGMA 8 SOLUTIONS](https://github.com/lukastanisic99)                       | [P2P State Channels](./P2PStateChannels.md)                     | [GitHub](https://github.com/lukastanisic99)                 | ☐          |        ☒       |      ☒      |
@@ -155,7 +179,7 @@ Besides, **there is a clear difference between an application being accepted and
 | [k/factory](https://k-f.co/)                                 | [On-Chain Automated Treasury Management](./centrifuge-twamm.md)   | [GitHub](https://github.com/centrifuge)                               | ☐          |        ☐       |      ☐     |
 | [AISLAND DAO](https://aisland.io)                                 | [Aisland Docsig](./Aisland-DocSig.md)   | [GitHub](https://github.com/aisland-dao)                               | ☐          |        ☒       |      ☒     |
 | [Eiger](https://www.eiger.co/)                                 | [Storage solution on Polkadot](./Eiger_Storage_on_Polkadot_1.md)   | [GitHub](https://github.com/eigerco)                               | ☐          |        ☒       |      ☒     |
-| [Salaheldin Soliman](https://github.com/salaheldinsoliman)                     | [Solang Playground](Solang_Playground.md)                                                              | [GitHub](https://github.com/salaheldinsoliman)                      | ☐          |       ☒        |     ☐     |
+| [Salaheldin Soliman](https://github.com/salaheldinsoliman)                     | [Solang Playground](Solang_Playground.md)                                                              | [GitHub](https://github.com/salaheldinsoliman)                      | ☐          |       ☒        |     ☒     |
 | [P2P.ORG](http://p2p.org/)                    | [P2P data platform](data_platform_with_deep_indexed_data_and_staking_reports.md)                                                              | [GitHub](https://github.com/p2p-org)                      | ☐          |       ☒        |     ☒     |
 | [CoinFabrik](https://www.coinfabrik.com/)                    | [CoinFabrik On Ink Integration Tests](CoinFabrik_On_Ink_Integration_Tests.md)                                                              | [GitHub](https://github.com/CoinFabrik)                      | ☐          |       ☒        |     ☒     |
 | [Stake Plus Inc](https://stake.plus)                    | [Treasury Tracker](TreasuryTracker.md)                                                              | [GitHub](https://github.com/stake-plus)                      | ☐          |       ☒        |     ☒     |

@@ -24,9 +24,7 @@ If you find an open RFP here that you think you can address, feel free to [submi
     <b>🟢 Open:</b> We are looking for (additional) teams to implement this.
   </summary>
 
-| RFP | Last Updated |
-| :-- | :----------: |
-| [ISO_20022.md](RFPs/ISO_20022.md) | 12.10.2023 |  
+There are currently no open RFPs. Please check back later.
 
 </details>
 
@@ -73,6 +71,7 @@ If you find an open RFP here that you think you can address, feel free to [submi
 | [epassport-zk-validation.md](RFPs/epassport-zk-validation.md) | 21.03.2023 |
 | [formal_guarantees_for_grandpa.md](RFPs/formal_guarantees_for_grandpa.md) | 15.10.2024 |
 | [grant_management_webapp.md](RFPs/grant_management_webapp.md) | 25.09.2023 |
+| [ISO_20022.md](RFPs/ISO_20022.md) | 21.01.2025 |  
 | [jsonrpsee-proxy-support.md](RFPs/jsonrpsee-proxy-support.md) | 31.01.2024 |
 | [ksm-tipping-button.md](RFPs/ksm-tipping-button.md) | 20.07.2021 |  
 | [multi-chain-block-explorer.md](RFPs/multi-chain-block-explorer.md) | 27.09.2023 |
